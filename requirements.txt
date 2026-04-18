@@ -1,0 +1,11 @@
+pandas
+geopandas
+requests
+sodapy
+pyodbc
+sqlalchemy
+matplotlib
+seaborn
+jupyter
+python-dotenv
+openpyxl
